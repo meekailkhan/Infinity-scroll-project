@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    background-color: blanchedalmond;
+    border: 7px solid rgba(174, 134, 134, 0.401);
+    border-radius: 15px;
+    height: 200px;
+}
+
+.mainContainer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    margin: 10px;
+}
