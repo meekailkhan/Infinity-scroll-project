@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.card{
+div {
     background-color: blanchedalmond;
     border: 7px solid rgba(174, 134, 134, 0.401);
     border-radius: 15px;
